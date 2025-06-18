@@ -36,11 +36,11 @@
 
 ## 👥 Thành viên nhóm
 
-| Họ và tên         | Mã SV     | Vai trò chính                                    |
-|-------------------|-----------|--------------------------------------------------|
-| Lê Trường Giang   | 23010721  | Thiết kế Figma, vẽ sơ đồ Use Case               |
-| Mai Ngọc Linh     | 23010717  | Thiết kế Figma, thu thập yêu cầu người dùng     |
-| Lê Hồng Phúc      | 23010746  | Thiết kế Figma, viết báo cáo, trình bày nội dung|
+| Họ và tên         | Mã SV     | Vai trò chính                                         |
+|-------------------|-----------|-------------------------------------------------------|
+| Lê Trường Giang   | 23010721  | Thiết kế Figma, vẽ sơ đồ Use Case                     |
+| Mai Ngọc Linh     | 23010717  | Thiết kế Figma, thu thập yêu cầu người dùng           |
+| Lê Hồng Phúc      | 23010746  | Thiết kế Figma, viết báo cáo|
 | Bùi Minh Quân     | 23010725  | Thiết kế Figma, phân tích hệ thống, vẽ sơ đồ hoạt động|
 
 ## 🔍 Các tính năng chính
@@ -71,4 +71,4 @@
 
 ---
 
-📝 *Dự án được thực hiện trong khuôn khổ bài tập giữa kỳ môn Kỹ thuật phần mềm – năm học 2025.*
+📝 *Dự án được thực hiện trong khuôn khổ bài tập giữa kỳ môn Kỹ thuật phần mềm – năm học 2024 - 2025.*
