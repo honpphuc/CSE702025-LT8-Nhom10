@@ -17,22 +17,6 @@
 - **Soạn thảo báo cáo:** Word, Markdown  
 - **Quản lý và chia sẻ:** GitHub
 
-## 📁 Cấu trúc thư mục đề xuất
-
-```bash
-📂 hanoi-hotel-booking-ui/
-├── 📄 README.md
-├── 📂 diagrams/
-│   ├── use-case.png
-│   ├── activity.png
-│   ├── class-diagram.png
-│   ├── sequence-diagram.png
-│   └── erd.png
-├── 📂 figma-design/
-│   └── link-du-an-figma.txt
-└── 📂 report/
-    └── Bao_Cao_KTPM_Nhom11.pdf
-```
 
 ## 👥 Thành viên nhóm
 
