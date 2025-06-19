@@ -45,7 +45,6 @@
 ## 📎 Liên kết Figma
 
 👉 [Xem bản thiết kế trên Figma](https://www.figma.com/resources/)  
-*(Vui lòng thay thế bằng link Figma thực tế của nhóm bạn và bật chế độ công khai hoặc chia sẻ được)*
 
 ## 📚 Tài liệu tham khảo
 
